@@ -11,7 +11,7 @@ Raiden
 
 ### Language
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" 
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170](https://en.wikipedia.org/wiki/C%2B%2B)" target="_blank" rel="noreferrer"><img <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" 
                     </p>
                     
 
