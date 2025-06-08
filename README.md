@@ -24,7 +24,14 @@ Raiden
 
 ### Social networks
 <p align="left">
-<img  src="./icons/icons8-linkedin.svg" width="48" height="48" alt="linkdin" /> <img  src="./icons/icons8-telegram.svg" width="48" height="48" alt="telegram"/>
+  <a href="https://www.linkedin.com/in/volodymyr-harash/" target="_blank" rel="noreferrer">
+    <img src="./icons/icons8-linkedin.svg" width="48" height="48" alt="linkedin" />
+  </a>
+  <a href="https://t.me/Raiden3D" target="_blank" rel="noreferrer">
+    <img src="./icons/icons8-telegram.svg" width="48" height="48" alt="telegram" />
+  </a>
+</p>
+
 
 
 ### Badges
