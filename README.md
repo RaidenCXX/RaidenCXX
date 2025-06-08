@@ -15,10 +15,16 @@ Raiden
                     
 
 ### Tools
-<img  src="./icons/icons8-git.svg" width="48" height="48" alt="git" /> <img src="./icons/apps-neovim.svg" width="48" height="48" alt="Neovim" /> <img width="48" height="48" src="./icons/icons8-visual-studio.svg" alt="visual-studio"/> <img width="48" height="48" src="./icons/apps-houdini.svg" alt="houdini"/> 
+<p align="left">
+<img  src="./icons/icons8-git.svg" width="48" height="48" alt="git" /> <img src="./icons/apps-neovim.svg" width="48" height="48" alt="Neovim" /> <img width="48" height="48" src="./icons/icons8-visual-studio.svg" alt="visual-studio"/> <img width="48" height="48" src="./icons/apps-houdini.svg" alt="houdini"/> <img  src="./icons/cmake-svgrepo-com.svg" width="48" height="48" alt="cmake" /> <img  src="./icons/SFML Logo.svg" width="48" height="48" alt="sfmk" />
+</p>
+</p>
+</p>
 
 
-
+### Social networks
+<p align="left">
+<img  src="./icons/icons8-linkedin.svg" width="48" height="48" alt="linkdin" /> <img  src="./icons/icons8-telegram.svg" width="48" height="48" alt="telegram"/>
 
 
 ### Badges
