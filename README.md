@@ -31,6 +31,9 @@ Raiden
   <a href="https://t.me/Raiden3D" target="_blank" rel="noreferrer">
     <img src="./icons/icons8-telegram.svg" width="48" height="48" alt="telegram" />
   </a>
+   <a href="[https://t.me/Raiden3D](https://lunar-cause-7a6.notion.site/My-Library-21344237b90380ed9fbaf321a6ae67db?source=copy_link)" target="_blank" rel="noreferrer">
+    <img src="./icons/bookshelf-svgrepo-com.svg" width="48" height="48" alt="telegram" />
+  </a>
 </p>
 
 
